@@ -1,0 +1,10 @@
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\bin\Debug\telaCRUD.exe.config
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\bin\Debug\telaCRUD.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\bin\Debug\telaCRUD.pdb
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.Form1.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.Properties.Resources.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.csproj.GenerateResource.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\Outros\telaCRUD\telaCRUD\obj\Debug\telaCRUD.pdb

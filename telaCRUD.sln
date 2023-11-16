@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telaCRUD", "telaCRUD\telaCRUD.csproj", "{BCCFE7C7-368A-40F5-AB39-D67BA6D46E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCFE7C7-368A-40F5-AB39-D67BA6D46E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCFE7C7-368A-40F5-AB39-D67BA6D46E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCFE7C7-368A-40F5-AB39-D67BA6D46E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCFE7C7-368A-40F5-AB39-D67BA6D46E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9BC2FA-A660-4338-AC0D-0E7F952C6D08}
+	EndGlobalSection
+EndGlobal
